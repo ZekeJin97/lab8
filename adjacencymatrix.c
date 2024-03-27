@@ -112,10 +112,8 @@ int nodeInDegree(int *g, int node) {
 int nodeOutDegree(int *g, int node){
     int out_degree = 0;
     int j;
-    for (j = 0; j < COLUMNS; j++)
-    {
-        if (g[node * COLUMNS + j] == 1)
-        {
+    for (j = 0; j < COLUMNS; j++) {
+        if (g[node * COLUMNS + j] == 1) {
             out_degree++;
         }
     }
