@@ -6,7 +6,7 @@ This is the starting readme for this assignment. Please edit the following infor
 - Github Account Name ZekeJin97
 - Description: lab8
 
-- How many hours did it take you to complete this assignment? 1hr
+- How many hours did it take you to complete this assignment? 2hrs
 
 - Did you collaborate with any other students/TAs/Professors? If so, tell us who and in what capacity.
 
