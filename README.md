@@ -2,15 +2,15 @@
 
 This is the starting readme for this assignment. Please edit the following information by removing the "_edit me_" and replace it with appropriate information your assignment. If it is asking you a question, please provide a response.
 
-- Name: _edit me_
-- Github Account Name _edit me_
-- Description: _edit me_
+- Name: Zhechao Jin
+- Github Account Name ZekeJin97
+- Description: lab8
 
-- How many hours did it take you to complete this assignment? _edit me_
+- How many hours did it take you to complete this assignment? 1hr
 
 - Did you collaborate with any other students/TAs/Professors? If so, tell us who and in what capacity.
 
-  - _edit me (add more rows if needed)_
+  -no
 
 - Did you use any external resources? (Cite them below)
 
